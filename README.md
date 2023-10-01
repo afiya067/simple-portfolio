@@ -1,2 +1,2 @@
 # simple-portfolio
-simple
+simple portfolio website using css,java and js
